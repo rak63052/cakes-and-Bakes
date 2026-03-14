@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url(bahubali\ cake.jpg);
+    background-repeat: no-repeat;
+background-size: 1700px 900px;
+}
+#text1{
+    color: blue;
+    font-size: 60px;
+    margin-left: 60;
+    margin-bottom:  350px; ;
+}
+}
+#text2{
+    color: blue;
+    font-size: 25px;
+    margin-left: 60;
+    margin-bottom:  150px; ;
+}
+bottom{
+    height: 60px;
+    width: 40px;
+    background-color: burlywood;
+    margin-left: 150px;
+    font-size: 50px;
+    margin-bottom: 60px;
+}
